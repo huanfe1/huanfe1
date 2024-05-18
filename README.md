@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm huanfei, a studenet from China.
+I'm huanfei, a student from China.
