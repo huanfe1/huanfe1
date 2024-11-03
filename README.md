@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm huanfei, a student from China.
+I'm Huanfei. Welcome to my GitHub page.
+
+I often write code as a way to relax, and plan to make a living from it in the future.
